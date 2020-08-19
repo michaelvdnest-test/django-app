@@ -58,7 +58,3 @@ python manage.py createsuperuser
 ### Modify the app
 
 After registering your modules in polls/admin.py you can adminster the models on the admin site.
-
-## Views
-
-
